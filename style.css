@@ -1,0 +1,29 @@
+.green{
+    text-align: center; background-color: green; color: white;
+}
+
+.red{
+    color: black; text-align: start; background-color: aliceblue;
+}
+.inputs, textarea {
+    width: 250px;
+}
+.black{
+    background-color: green; color: white;
+}
+
+.grey{
+    border-radius: 30px;
+}
+
+.table{
+    border-collapse: collapse; width: 100%; height: 150px;  border: 1.5px solid black;
+}
+
+.start {
+    text-align: start;
+}
+
+th, td{
+    border: 1.5px solid black; 
+}
